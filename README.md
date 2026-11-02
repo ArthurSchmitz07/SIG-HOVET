@@ -3,6 +3,8 @@
 Desafio técnico universitário para reproduzir o componente Requisições do SIG-HOVET.
 Objetivo: reproduzir o componente de requisições de uma consulta veterinária, com CRUD integrado a um backend.
 
+Vídeo curto do funcionamento: [assista à gravação de tela](demo/demonstracao.webm). Ele mostra a criação, visualização, edição e exclusão de uma requisição de demonstração, sem narração.
+
 ## Estado atual
 
 Listagem, visualização, criação, edição e exclusão de requisições integradas a um backend próprio nas rotas do Next.js. Os registros da consulta de demonstração são persistidos em `data/requisicoes.json`. Axios faz as chamadas HTTP e TanStack Query consulta e atualiza a lista. A busca oferece três serviços de demonstração. A exclusão exige confirmação e só fecha a janela após a remoção no servidor.
