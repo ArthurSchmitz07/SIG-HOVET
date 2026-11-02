@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c962452c-3e77-4126-83a6-8a0840815684",
+    "consultaId": "consulta-demo",
+    "servicoId": "hemograma",
+    "conteudo": "Requisição de teste criada pelo Playwright"
+  },
+  {
+    "id": "bfb5f69e-f183-4c34-973a-12dcad7063a6",
+    "consultaId": "consulta-demo",
+    "servicoId": "glicose",
+    "conteudo": "Teste de criação pela interface"
+  }
+]
